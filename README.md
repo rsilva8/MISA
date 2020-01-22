@@ -111,7 +111,9 @@ This demonstrates that *separation occurs up to subspace identification*.
 Features retain their dependence *within subspaces*.
 
 # Citation 
-- Link to arxiv
+- (2019) Rogers F. Silva, Sergey M. Plis, Tulay Adali, Marios S. Pattichis, Vince D. Calhoun. Multidataset Independent Subspace Analysis with Application to Multimodal Fusion. [arXiv preprint]
+
+[arXiv preprint]: https://arxiv.org/abs/1911.04048
 
 # Dependences
 - Some examples assume [SPM] toolbox is readily available.
@@ -158,3 +160,5 @@ Supports user-supplied sources (Y) and mixing matrices (A).
 - MATLAB 2017a
 
 # License
+
+All rights reserved. Free for academic use.
